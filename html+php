@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><strong>PHP</strong></h1>
+<?php 
+function myVarible(){
+$varible="name";
+$age="18";
+if(age>18){
+echo "Nicht erlaubt";
+}
+else{
+echo "iat Ok";
+}
+myVarible();
+}
+?>
+<h5><strong>END</strong></h5>
+</body>
+</html>
